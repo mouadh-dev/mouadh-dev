@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mouadh-dev
 - 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mouadh.laa@gmail.com
 
