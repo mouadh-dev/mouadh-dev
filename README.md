@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Mouadh Laabidi
 
-<!-- Profile Banner (Optional) -->
-![Banner](https://github.com/mouadh-dev/mouadh-dev/assets/banner.png)
 
 ---
 
@@ -23,34 +21,34 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mouadh-dev&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouadh-dev&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mouadh-dev&theme=onedark&margin-w=15&margin-h=15"/>
 </p>
 
 ---
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=mouadh-dev&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph
-[![Your github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Your github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mouadh-dev&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 🎯 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
+  <img src="https://komarev.com/ghpvc/?username=mouadh-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mouadh-dev" />
 </p>
 <!---
 mouadh-dev/mouadh-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
