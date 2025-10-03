@@ -41,13 +41,18 @@
 
 ---
 
+## 📊 GitHub Summary Card
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mouadh-dev&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+---
+
 ## 📈 Contribution Graph
 [![Your github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mouadh-dev&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 🎯 Profile Views
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=mouadh-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mouadh-dev" />
 </p>
 <!---
